@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "flow-babel-webpack-plugin": "^1.1.1"
+  },
+  "dependencies": {
+    "@types/react": "^18.0.31"
+  }
+}
